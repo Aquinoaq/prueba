@@ -18,7 +18,7 @@
     <div>
         <table>
             <tr>
-                <td>ID</td>
+                <td>CODIGO</td>
                 <td>NOMBRES</td>
                 <td>APELLIDOS</td>
             </tr>
